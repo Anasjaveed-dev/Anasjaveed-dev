@@ -1,5 +1,5 @@
 <h1 align="center"> Well, Myself Anas Javeed </h1>
-<h3 align="center">B.Tech CSE @ IUST, Kashmir · Systems & AI/ML · Competitive Programming · Projects&Skills </h3>
+<h3 align="center">B.Tech CSE @ IUST, Kashmir  |  · Systems & AI/ML · Competitive Programming  |  </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=BF00FF&center=true&vCenter=true&width=600&lines=It's+not+the+stack+%E2%80%94+it's+the+architect;Building+slow%2C+building+real;DSA+%7C+Systems+%7C+AI%2FML;Some+Code%2C+Some+Life" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 ---
 
-### ⚙️ Right now
+### ❯❯❯❯ Right now
 
 -  Laying down real CS foundations — DSA, algorithms, systems — before touching frameworks
 -  Sharpening Python and Java in parallel, not just one language at a time
@@ -78,7 +78,7 @@ A stack is just material — languages, tools, whatever's on hand. It's the arch
 
 ---
 
-### 📊 GitHub Stats
+### 📋 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anasjaveed-dev&show_icons=true&theme=tokyonight&title_color=bf00ff&icon_color=bf00ff" />
@@ -90,11 +90,13 @@ A stack is just material — languages, tools, whatever's on hand. It's the arch
 
 ---
 
-### 📫 Connect
+### 🔗 Tie UP.....
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anas-javeed-b3b254421"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/TheAnasjaveed"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="mailto:officialanasjaveed@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a
+
 </p>
 
 <p align="center"><i>Not the stack. Not the resume. The architect behind both.</i></p>
