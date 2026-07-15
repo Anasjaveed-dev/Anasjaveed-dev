@@ -95,7 +95,7 @@ A stack is just material — languages, tools, whatever's on hand. It's the arch
 <p align="center">
 <a href="https://www.linkedin.com/in/anas-javeed-b3b254421"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/TheAnasjaveed"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="officialanasjaveed@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a
+<a href="mailto:officialanasjaveed@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a
 
 </p>
 
