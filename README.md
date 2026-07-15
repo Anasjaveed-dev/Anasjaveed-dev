@@ -93,7 +93,7 @@ A stack is just material — languages, tools, whatever's on hand. It's the arch
 ### 📫 Connect
 
 <p align="center">
-<a href="www.linkedin.com/in/anas-javeed-b3b254421"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anas-javeed-b3b254421"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/TheAnasjaveed"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
 
