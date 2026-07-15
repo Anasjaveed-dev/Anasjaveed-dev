@@ -13,10 +13,10 @@
 
 ### ❯❯❯❯ Right now
 
+-  Chasing Btech Computer Science 💻 @IUST
 -  Laying down real CS foundations — DSA, algorithms, systems — before touching frameworks
--  Sharpening Python and Java in parallel, not just one language at a time
 -  Getting competitive-programming-ready (Codeforces / LeetCode) as coursework ramps up
--  Looking to jump into hackathons for real build-under-pressure experience
+-  Hackathons for real build-under-pressure experience
 -  Building Projects, Skills and Growth in the meantime
 
 ---
