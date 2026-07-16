@@ -14,6 +14,11 @@
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
+<!-- Title -->
+<p align="center">
+  <img src="./assets/docs/img/system_access_title.svg" width="100%" alt="System access section title" />
+</p>
+
 ### ❯❯❯❯ Right now
 
 -  Chasing Btech Computer Science 💻 @IUST
