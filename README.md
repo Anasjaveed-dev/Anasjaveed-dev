@@ -1,4 +1,6 @@
-<h1 align="center"> Well, Myself Anas Javeed </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Well%2C%20Myself%20Anas...&fontSize=60&animation=twinkling" alt="Anas Javeed profile header" />
+</p> 
 <h3 align="center">B.Tech CSE @ IUST, Kashmir  |  · Systems & AI/ML · Competitive Programming  |  </h3>
 
 <p align="center">
