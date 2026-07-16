@@ -84,7 +84,7 @@ A stack is just material — languages, tools, whatever's on hand. It's the arch
 
 ---
 
-### 📋 GitHub Stats
+### 📊 Vital Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=anasjaveed-dev&show_icons=true&theme=tokyonight&title_color=bf00ff&icon_color=bf00ff" />
