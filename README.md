@@ -101,4 +101,8 @@ A stack is just material — languages, tools, whatever's on hand. It's the arch
 
 <p align="center"><i>Not the stack. Not the resume. The architect behind both.</i></p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p> 
+
 
