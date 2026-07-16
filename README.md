@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=anasjaveed-dev&label=Profile%20Views&color=bf00ff&style=flat" alt="Profile views" />
 </p>
 
----
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 ### ❯❯❯❯ Right now
 
@@ -88,7 +88,7 @@ A stack is just material — languages, tools, whatever's on hand. It's the arch
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasjaveed-dev&theme=tokyonight&ring=bf00ff&fire=bf00ff" />
 </p>
 
----
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 ### 🔗 Tie UP.....
 
