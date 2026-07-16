@@ -83,7 +83,7 @@ A stack is just material — languages, tools, whatever's on hand. It's the arch
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 </p>
 
----
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
 
 ### 📊 Vital Statistics
 
