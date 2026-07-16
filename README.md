@@ -4,8 +4,9 @@
 <h3 align="center">B.Tech CSE @ IUST, Kashmir  |  · Systems & AI/ML · Competitive Programming  |  </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=BF00FF&center=true&vCenter=true&width=600&lines=It's+not+the+stack+%E2%80%94+it's+the+architect;Building+slow%2C+building+real;DSA+%7C+Systems+%7C+AI%2FML;Some+Code%2C+Some+Life" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=BF00FF&center=true&vCenter=true&width=700&lines=It's+not+the+stack+%E2%80%94+it's+the+architect;Building+slow%2C+building+real;DSA+%7C+Systems+%7C+AI%2FML;Some+Code%2C+Some+Life;B.Tech+CSE+%40+IUST+%E2%86%92+M.Tech%2FMS+%E2%86%92+Silicon+Valley;Excellence+in+progress%2C+Silicon+Valley+bound" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anasjaveed-dev&label=Profile%20Views&color=bf00ff&style=flat" alt="Profile views" />
