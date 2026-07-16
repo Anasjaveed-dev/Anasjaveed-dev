@@ -37,7 +37,7 @@
 - What's really happening below the syntax — OS internals, memory management, how a process actually executes
 - Why an algorithm's complexity matters more than its syntax — the trade-offs hiding behind every abstraction you use daily
 
----
+[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
 ### 💻 Some code, some life
 
