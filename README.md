@@ -8,6 +8,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anasjaveed-dev&label=Profile%20Views&color=bf00ff&style=flat" alt="Profile views" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Time-3%20hrs%2020%20mins-blue?style=flat" alt="Views" />
+</p>
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 
